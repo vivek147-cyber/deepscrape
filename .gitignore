@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+scrape_output/
+scrapes/
+.venv/
